@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.h3"
 
 /**
  * puts_half - a func to print the second half of the string

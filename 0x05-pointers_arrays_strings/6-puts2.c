@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.h4"
 
 /**
  * puts2 - a func to print every other number in a string
