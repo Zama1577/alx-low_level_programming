@@ -1,4 +1,4 @@
-#include "main.h3"
+#include "main.h"
 
 /**
  * _strcpy - Copies a str pointed to by @src, plus the terminating null byte,
